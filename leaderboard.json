@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-20T08:22:17.896803+00:00",
+  "run_id": "43575479843",
+  "run_url": "https://github.com/siavashdev/lemonade/actions/runs/43575479843",
+  "repo": "siavashdev/lemonade",
+  "repo_url": "https://github.com/siavashdev/lemonade",
+  "actions_url": "https://github.com/siavashdev/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "894a85922e570a2c02f993459d4d32f844235063",
+  "lemonade_version": null,
+  "lemonade_versions_seen": [],
+  "systems": [],
+  "experimental_forks": [
+    "llamacpp-hrx",
+    "halo-box-strix"
+  ],
+  "by_model_scenario": {},
+  "history": {}
+}
